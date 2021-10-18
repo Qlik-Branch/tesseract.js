@@ -30,7 +30,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/mocha": "5.2.7",
-    "@types/node": "11.13.22",
+    "@types/node": "14.17.27",
     "chai": "4.2.0",
     "coveralls": "3.0.6",
     "mocha": "6.2.1",
